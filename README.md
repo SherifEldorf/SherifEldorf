@@ -11,10 +11,8 @@ I am a software engineer, I have a good knowledge in asp.net core and angular11 
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/angular.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/bootstrap.jpg" width="67.5px" />
+  <img src="https://img.shields.io/badge/angular-5E5C5C?style=for-the-badge&logo=angular&logoColor=a6120d" />
+  <img src="https://img.shields.io/badge/bootstrap-5E5C5C?style=for-the-badge&logo=bootstrap&logoColor=563d7c" />
 </p>
 
 
