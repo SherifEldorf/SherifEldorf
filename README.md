@@ -1,7 +1,10 @@
 
 Hi there ✋!  
 
-I am a software engineer, I have a good knowledge in asp.net core and angular11 .
+I’M Sherif Ezzat, I’ve Graduated in 2019 from the faculty of Engineering (computer and automatic control department)
+Tanta University, I’m very interested in developing field.
+In addition to my academic excellence, I gained a lot of experience in the field of design a website from scratch, make a whole static and dynamic websites, getting involved in big solutions like ERP and E-Commerce.
+I’m currently looking for a position as a full-stack .NET developer, To gain employment at a company which will inspire me to enhance my skills, career, and work as a team player in a positive atmosphere to bring my strong 
 
 
 <p>
